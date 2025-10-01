@@ -1,6 +1,6 @@
 # A02
 Tutorial on Using Github
-1. [(https://git-scm.com/downloads)]
+1. First make sure you have git and webstorm downloaded using the following links: https://git-scm.com/downloads & https://www.jetbrains.com/student-pack/
 3. 
 4. 
 5. 
