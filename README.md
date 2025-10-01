@@ -1,15 +1,14 @@
 # A02
-Tutorial on how to use Github and Webstorm
-1. x
-2. x
-3. x
-4. x
-5. x
-6. x
-7. x
-8. x
-9. x
-10. x
+Tutorial on Using Github
+1. [(https://git-scm.com/downloads)]
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Glossary
 - **Branch**: A version of your repository that contains all the same information but can be edited freely without changing the actively running main repository. 
