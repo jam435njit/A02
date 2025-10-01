@@ -1,6 +1,7 @@
 # A02
 Tutorial on Using Github
 1. First make sure you have git and webstorm downloaded using the following links: https://git-scm.com/downloads & https://www.jetbrains.com/student-pack/
+2. Next create a Github account here: https://github.com/join
 3. 
 4. 
 5. 
@@ -25,5 +26,5 @@ Glossary
 - **Repository**: Essentially a folder that contains all your projects' files and revision history.
 
 References
-- 
+- https://njit.instructure.com/courses/58104/files/folder/Week03?preview=8421440
 - https://docs.github.com/en/get-started/learning-about-github/github-glossary
